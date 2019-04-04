@@ -1,0 +1,6 @@
+{
+   "token": "some-random-token-string",
+   "server": "Automated Pull API Beta",
+   "slack_webhook": "https://hooks.slack.com/services/AAAAAAAAA/BBBBBBBBB/CCCCCCCCCCCCCCCCCCCCCCCC",
+   "blacklist_expiry_mins": "30"
+}
